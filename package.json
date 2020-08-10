@@ -14,6 +14,7 @@
     "打印",
     "typescript"
   ],
+  "homepage": "https://github.com/kuangshp/nest-log",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
